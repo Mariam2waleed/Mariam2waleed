@@ -12,13 +12,12 @@
 ### 📫 Like to meet meet me ? 
 - "Mariam2waleed@gmail.com" 
 
-## I'm a Student, Developer, and Designer!! 🔭👯🥅
+## I'm a Student, Developer, and Designer!! 👯🥅
 
 - 🌱 I’m currently learning everything 🤣
 - 🚴🏻 I love Cycling
 - 👟 Athletic player 
-
-
+- 🔭 Know about my experiences [My CV]
 
 
 ### Languages and Tools:
@@ -35,3 +34,4 @@
 [twitter]: https://twitter.com/Mariam2Waleedd?t=WqqiNOCxsip5xvfZ-zcCWQ&s=09
 [instagram]: https://www.instagram.com/mariam2waleed/
 [linkedin]: https://www.linkedin.com/in/mariam-waleed/
+  [My CV]: https://docs.google.com/document/d/12jk0lTAm2iEirvaUhKo31hQtruloDzHUnFfADjlqXFM/edit?usp=sharing
