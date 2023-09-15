@@ -12,7 +12,7 @@
 ### 📫 Like to meet meet me ? 
 - "Mariam2waleed@gmail.com" 
 
-## I'm a Student, Developer, and Designer!! 👯🥅
+## I'm a Fresh Graduate, Developer, and Designer!! 👯🥅
 
 - 🌱 I’m currently learning everything 🤣
 - 🚴🏻 I love Cycling
