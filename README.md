@@ -4,7 +4,7 @@
 <p><em>Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mariam?label=Follow)](https://twitter.com/Mariam2Waleedd?t=WqqiNOCxsip5xvfZ-zcCWQ&s=09)
-[![Linkedin: anmol](https://img.shields.io/badge/-Mariam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariam-waleed-4476b3234/)](https://www.linkedin.com/in/mariam-waleed/)
+[![Linkedin: anmol](https://img.shields.io/badge/-Mariam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariam-waleed-4476b3234/)](https://www.linkedin.com/in/mariam2waleed/)
 [![Git Followers](https://img.shields.io/github/followers/Mariam2Waleed?label=Follow&style=social)](https://github.com/Mariam2waleed)
 [![Waka Readme](https://wakatime.com/badge/user/f00515b3-6f91-43f4-9b54-f4c40e381c86.svg)](https://wakatime.com/@Mariam2waleed)
 
